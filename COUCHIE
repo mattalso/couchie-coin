@@ -190,4 +190,5 @@ zip_path = "/mnt/data/couchie-website-package.zip"
 shutil.make_archive(zip_path.replace(".zip", ""), 'zip', site_root)
 
 zip_path
-0.000004866465498959007
+
+/assets/couchie-logo-64x64.png
