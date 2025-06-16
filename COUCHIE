@@ -192,3 +192,5 @@ shutil.make_archive(zip_path.replace(".zip", ""), 'zip', site_root)
 zip_path
 
 /assets/couchie-logo-64x64.png
+<img src="assets/couchie-logo-64x64.png" alt="COUCHIE Logo" />
+
